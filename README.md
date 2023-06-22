@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://tryhackme.com/p/almiraverse" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
@@ -89,10 +89,11 @@ Here are some ideas to get you started:
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=almiraverse&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<br />
+
 
 <!-- ###
 
@@ -105,3 +106,4 @@ Here are some ideas to get you started:
  ![Snake animation](https://github.com/almiraverse/almiraverse/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
