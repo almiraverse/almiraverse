@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">⌨️ Frontend-Focused Full-Stack Engineer<br>👩🏻‍💻 Currently working on Big Mango<br>🚀 Seeking remote/hybrid Software Engineering opportunities<br>🌱 I'm currently learning React</p>
+<p align="left">⌨️ Frontend-Focused Full-Stack Engineer<br>👩🏻‍💻 Currently working on <a href="https://github.com/almiraverse/bigMango">Big Mango</a><br>🚀 Seeking remote/hybrid Software Engineering opportunities<br>🌱 I'm currently learning React</p>
 
 ###
 
