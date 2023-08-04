@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href="https://tryhackme.com/p/almiraverse" target="_blank">
+<!--   <a href="https://tryhackme.com/p/almiraverse" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  </a>
+  </a> -->
   <a href="https://www.hackerrank.com/almiraverse?hr_r=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
@@ -30,13 +30,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<a href="https://www.codewars.com/users/almiraverse"> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) </a>
+
 ###
 
 <h3 align="left">✨  About Me</h3>
 
 ###
 
-<p align="left">⌨️ Frontend-Focused Full-Stack Engineer<br>👩🏻‍💻 Currently working on <a href="https://github.com/almiraverse/bigMango">Big Mango</a> (a full-tack travel website)<br>🚀 Seeking remote/hybrid Software Engineering opportunities<br>🌱 I'm currently learning React</p>
+<p align="left">⌨️ Frontend-Focused Full-Stack Engineer<br>👩🏻‍💻 Currently working on <a href="https://github.com/almiraverse/bigMango">Big Mango</a> (a full-tack travel website)<br>🚀 Seeking remote/hybrid Software Engineering opportunities<br>🌱 I'm currently learning React Native</p>
 
 ###
 
